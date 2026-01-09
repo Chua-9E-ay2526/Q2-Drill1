@@ -1,0 +1,27 @@
+body {
+    font-family: "Lexend", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal; 
+    }
+    
+
+    .hero-text {
+        text-align: center;
+        color: white
+    }
+    
+    .hero-image {
+        background-image: url(texture4.jpg);
+        height: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: relative;
+    }
+
+    .container {
+        border: 1px solid blue;
+        box-shadow: -8px 5px 9px 1px #0000ff;
+    }
+
